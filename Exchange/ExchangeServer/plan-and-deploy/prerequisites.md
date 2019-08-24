@@ -203,6 +203,8 @@ The prerequisites that are needed to install Exchange 2016 on computers running 
 2. Install the following software in order:
 
    a. [.NET Framework 4.7.1](https://go.microsoft.com/fwlink/p/?linkid=866906)
+   
+   b. [.NET Framework 4.7.2](http://go.microsoft.com/fwlink/?linkid=863265)
 
    b. [Microsoft Knowledge Base article KB3206632](https://go.microsoft.com/fwlink/p/?linkid=837748)
 
