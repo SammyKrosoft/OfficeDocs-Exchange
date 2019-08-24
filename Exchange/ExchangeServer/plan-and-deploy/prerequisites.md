@@ -170,7 +170,7 @@ You can use any member of the Active Directory domain to prepare Active Director
 
 1. The computer requires the following software:
 
-   a. [.NET Framework 4.7.1](https://go.microsoft.com/fwlink/p/?linkid=866906)
+   a. [.NET Framework 4.7.2](https://go.microsoft.com/fwlink/p/?linkid=863265)
 
    b. [Visual C++ Redistributable Package for Visual Studio 2012](https://www.microsoft.com/download/details.aspx?id=30679)
 
